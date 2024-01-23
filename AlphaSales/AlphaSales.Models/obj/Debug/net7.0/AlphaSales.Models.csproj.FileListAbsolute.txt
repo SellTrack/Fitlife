@@ -1,0 +1,60 @@
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.deps.json
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.AssemblyReference.cache
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfoInputs.cache
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfo.cs
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.CoreCompileInputs.cache
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/refint/AlphaSales.Models.dll
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/backup/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/ref/AlphaSales.Models.dll
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.deps.json
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.AssemblyReference.cache
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfoInputs.cache
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfo.cs
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.CoreCompileInputs.cache
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/refint/AlphaSales.Models.dll
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Library/Mobile Documents/com~apple~CloudDocs/Projeler/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/ref/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.deps.json
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.AssemblyReference.cache
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfoInputs.cache
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfo.cs
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.CoreCompileInputs.cache
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/refint/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Documents/GitHub/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/ref/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.deps.json
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.AssemblyReference.cache
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfoInputs.cache
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfo.cs
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.CoreCompileInputs.cache
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/refint/AlphaSales.Models.dll
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Documents/GitHub/fitness/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/ref/AlphaSales.Models.dll
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.deps.json
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/bin/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.AssemblyReference.cache
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfoInputs.cache
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.AssemblyInfo.cs
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.csproj.CoreCompileInputs.cache
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.dll
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/refint/AlphaSales.Models.dll
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/AlphaSales.Models.pdb
+/Users/selmanorhan/Downloads/AlphaSales/AlphaSales.Models/obj/Debug/net7.0/ref/AlphaSales.Models.dll
