@@ -1,8 +1,11 @@
-<center>
+<div style="text-align:center">
 
 # FITLIFE
 
-</center>
+FITLIFE
+
+</div>
+
 
  # :question: What is this project
  This is fitness coach website project for my university developed with my friend Emre Yılmaz.
