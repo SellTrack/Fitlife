@@ -1,7 +1,8 @@
-[![rps+ logo](https://github.com/SellTrack/Fitlife/blob/main/AlphaSales/media/Screenshot%202024-01-23%20at%2010.45.58%E2%80%AFAM.jpg?raw=true
-)](https://github.com/SellTrack/Fitlife/blob/main/AlphaSales/media/Screenshot%202024-01-23%20at%2010.45.58%E2%80%AFAM.jpg?raw=true
-)
+<center>
 
+# FITLIFE
+
+</center>
 
  # :question: What is this project
  This is fitness coach website project for my university developed with my friend Emre Yılmaz.
