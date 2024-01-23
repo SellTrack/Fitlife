@@ -1,8 +1,6 @@
 <div style="text-align:center">
 
-# FITLIFE
-
-FITLIFE
+# <span style="font-size:48px">KOCAMAN BÜYÜK BAŞLIK</span>
 
 </div>
 
