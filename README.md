@@ -1,7 +1,4 @@
-<div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
+ # FITLIFE
 
  # :question: What is this project
  This is fitness coach website project for my university developed with my friend Emre Yılmaz.
@@ -10,10 +7,7 @@
  This project developed using .NET, Azure SQL, C#, and various nuget packages.
 
  # :question: What is required for run the website
- azure data studio to view the database
-
- # :question: How to run the game
- Simply drag the RPS file to vs code and run the tkm_game.java file
+ azure data studio to view the database, SQL server (in this project i also used docker), visual studio to run the code.
 
  # :video_game: About game
  This game takes your normal rock, paper and scissors game and takes a bit further. each item has his own health to live, power to damage, level to strenghten and xp to level up. each item deal and take damage by relying on calssic rps (rock,paper,scissors) rule. 
