@@ -7,10 +7,10 @@
  This project developed using .NET, Azure SQL, C#, and various nuget packages.
 
  # :question: What is required for run the website
- azure data studio to view the database, SQL server (in this project i also used docker), visual studio to run the code.
+ azure data studio to view the database, SQL server (in this project i also used docker) to keep the database, visual studio to edit and run the code.
 
- # :video_game: About game
- This game takes your normal rock, paper and scissors game and takes a bit further. each item has his own health to live, power to damage, level to strenghten and xp to level up. each item deal and take damage by relying on calssic rps (rock,paper,scissors) rule. 
+ # :video_game: About project
+  we habe been asked to do the fitness website. There will be client and trainer realationship that can track and manage their nutrition and exercise Because i have a few experience before .NET, we thought it will be better we do this project also in .NET.
 
  ## :video_game: Game modes
  There is two way to play this game. 
