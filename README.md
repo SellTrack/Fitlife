@@ -10,7 +10,7 @@
  azure data studio to view the database, SQL server (in this project i also used docker) to keep the database, visual studio to edit and run the code.
 
  # :video_game: About project
-  we habe been asked to do the fitness website. There will be client and trainer realationship that can track and manage their nutrition and exercise Because i have a few experience before .NET, we thought it will be better we do this project also in .NET.
+  we have been asked to do the fitness website. There will be client and trainer realationship that can track and manage their nutrition and exercise routines. Because i have a few experience before in .NET, we thought it will be better we do this project also in .NET. i will leave a full documentaion of this project 
 
 
 
