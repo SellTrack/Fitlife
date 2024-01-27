@@ -12,10 +12,7 @@
  # :video_game: About project
   we habe been asked to do the fitness website. There will be client and trainer realationship that can track and manage their nutrition and exercise Because i have a few experience before .NET, we thought it will be better we do this project also in .NET.
 
- ## :video_game: Game modes
- There is two way to play this game. 
- * Player vs. Computer
- * Computer vs. Computer
+
 
  ### :video_game: Player vs. Computer
 
