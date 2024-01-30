@@ -30,6 +30,11 @@
 
   *
 
+ # ✨ What i learned from this project
+  
+  I learned basics of web programming staj 
+
+  
 
 
 # Documents
