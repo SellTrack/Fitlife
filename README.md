@@ -34,6 +34,10 @@
   
   I learned basics of web programming 
 
+  I learned Creating a website
+
+  I learned Creating a database and how to using it
+
   
 
 
